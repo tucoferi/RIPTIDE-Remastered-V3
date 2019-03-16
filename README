@@ -1,0 +1,48 @@
+=======================================================================================================================================
+||		THIS CHEAT HAS BEEN CODED BY BASEULT. ORIGINAL FORUM: HTTPS://RIPTIDE-REMASTERED.XYZ 								   		 ||
+||																														   			 ||
+||		CHEAT CAN ALSO BE FOUND HERE: https://void.to/Thread-Official-Release-Riptide-Remastered-V2						   		     ||
+||		AND HERE: https://www.unknowncheats.me/forum/cs-go-releases/311324-riptide-remastered-updated.html                           ||
+||          																											   			 ||
+||		IF YOU FOUND THE SOURCE ON ANY OTHER WEBSITE, THE SOURCE HAS BEEN STOLEN AND IS PROBABLY FAKE!                               ||
+=======================================================================================================================================
+
+
+
+
+Error Fixes:
+
+1. Your game crashes while Injection:
+
+- Disable features in Misc Visuals (Bulletbeams, Hitmarker, Damage Indicator..)
+- Please Inject in Main Menu - Don't Inject Ingame it will probably crash
+- Don't load your Configs ingame. Load your Configs in Main Menu
+- Remove Junkcode (Riptide is heavy and crashs with to much code)
+- Change your Injector (Use Extreme Injector for testing)
+- Buy a better PC (Everything works fine on my pc. If something does not work, it's up to you)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+2. If you have something like that:
+
+"Error   LNK2038 mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Aimbot.obj  Riptide Remastered  D:\yourpath\Riptide Remastered\Riptide-Remastered\libprotobuf.lib(common.obj)"
+
+- Change Debug to Release: https://dotnetinterviewquestion.files.wordpress.com/2014/03/debug.png
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+3. If you have something like that:
+
+"linked to error message : 'd3dx9.h'"
+
+- Download and Install DirectX: SDK https://www.microsoft.com/en-us/download/details.aspx?id=6812
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+4. If you have something like that:
+
+"c:\users\fabia\desktop\riptide remastered\riptide-remastered\protobuf\base_gcmessages.pb.h(9): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "google/protobuf/stubs/common.h": No such file or directory"
+
+- Include Protobuf: https://www.youtube.com/watch?v=3ypU8i0SFVg
+
+---------------------------------------------------------------------------------------------------------------------------------------
